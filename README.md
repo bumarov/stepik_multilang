@@ -1,2 +1,2 @@
-# stepik_multilang
-Stepik 
+# Stepik
+Get options from CLI
